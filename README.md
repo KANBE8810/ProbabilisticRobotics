@@ -1,5 +1,5 @@
 # ProbabilisticRobotics
-確率ロボティクス講義内課題
+確率ロボティクス講義課題
 ## 実行環境
 - Ubuntu 18.04
 - Python 3.6.9
